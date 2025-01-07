@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joel
 - 👀 I’m interested in programming,development,AI etc.
-- 🌱 I’m currently leaning web development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development.
 - 📫 Reach me through linkedin/in/joel-mathew-siby
 
 <!---
