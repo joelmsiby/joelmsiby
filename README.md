@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel
 - 👀 I’m interested in programming,development,AI etc.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Flutter and Dart.
 - 📫 Reach me through linkedin/in/joel-mathew-siby
 
 <!---
